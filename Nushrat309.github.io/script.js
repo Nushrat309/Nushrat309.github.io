@@ -1,1 +1,0 @@
-console.log("Welcome to Nushrath Jahan's Portfolio!");
